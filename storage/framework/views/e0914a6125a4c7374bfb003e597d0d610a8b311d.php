@@ -1,0 +1,1 @@
+<script src="<?php echo e(asset('dist-front/js/custom.js')); ?>"></script>        <?php /**PATH D:\Website\News\news_admin\resources\views/front/layout/scripts_footer.blade.php ENDPATH**/ ?>

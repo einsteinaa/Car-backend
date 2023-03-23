@@ -1,0 +1,2 @@
+<script src="<?php echo e(asset('dist/js/scripts.js')); ?>"></script>
+<script src="<?php echo e(asset('dist/js/custom.js')); ?>"></script><?php /**PATH D:\car rental system project\Car_Rent\car_rent_admin\resources\views/admin/layout/scripts_footer.blade.php ENDPATH**/ ?>
